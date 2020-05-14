@@ -22,11 +22,11 @@
       <scope>test</scope>
     </dependency>
     
-    <!--  <dependency>
+    <dependency>
     	<groupId>com.google.protobuf</groupId>
     	<artifactId>protobuf-java</artifactId>
    		<version>2.3.0</version>
-    </dependency>-->
+    </dependency>
     
     <dependency>
 			<groupId>io.protostuff</groupId>
@@ -40,6 +40,25 @@
 			<artifactId>common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+    
+    
+    
+    
+    
+    
+     <dependency>
+          <groupId>com.dyuproject.protostuff</groupId>
+          <artifactId>protostuff-core</artifactId>
+          <version>1.0.8</version>
+      </dependency>
+
+      <dependency>
+          <groupId>com.dyuproject.protostuff</groupId>
+          <artifactId>protostuff-runtime</artifactId>
+          <version>1.0.8</version>
+      </dependency>
+    
+    
     
     
   </dependencies>

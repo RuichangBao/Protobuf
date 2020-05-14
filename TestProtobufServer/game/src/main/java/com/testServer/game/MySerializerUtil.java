@@ -18,5 +18,4 @@ public class MySerializerUtil
 		ProtobufIOUtil.mergeFrom(data, t, runtimeSchema);
 		return t;
 	}
-
 }

@@ -10,7 +10,7 @@ import io.protostuff.ProtobufIOUtil;
  * Hello world!
  *
  */
-public class App
+public class GameMain
 {
 	public static void main(String[] args)
 	{

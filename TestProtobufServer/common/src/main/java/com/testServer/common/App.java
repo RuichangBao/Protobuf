@@ -1,4 +1,4 @@
-package com.ck;
+package com.testServer.common;
 
 /**
  * Hello world!
